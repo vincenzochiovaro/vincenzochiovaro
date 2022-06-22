@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...Looking for a job
 - 🌱 I’m currently learning ... React.js
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...{ https://www.linkedin.com/in/vincenzo-chiovaro-22258a176 }
