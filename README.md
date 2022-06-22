@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Looking for a job
 - 🌱 I’m currently learning ... React.js
 - 💬 Ask me about ...Anything
