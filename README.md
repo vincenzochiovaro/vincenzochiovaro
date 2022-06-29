@@ -1,4 +1,4 @@
-### Hi there 👋 I am a hobbyist WebDeveloper with a working profiency in HTML and CSS. I have  a solid understanding of bootstrap and GIT version control. I am currently expanding my skill set by studying JavaScript and React.
+### Hi there 👋 I am a hobbyist WebDeveloper with a working profiency in HTML and CSS. I have  a solid understanding of Bootstrap and GIT version control. I am currently expanding my skill set by studying JavaScript and React.
 
 
 - 🌱 I’m currently learning ... JavaScript
