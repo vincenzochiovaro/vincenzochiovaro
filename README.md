@@ -3,6 +3,6 @@
 -> I’m currently Working on: MyRandomQuoteMachine [https://github.com/vincenzochiovaro/MyRandomQuoteMachine] ...  
 
 - 🌱 I’m currently learning ... JavaScript
-- 💬 Ask me about ...Anything
+- 💬 Ask me about ... Gaming🎮, Technology 💻, Pizza🍕, Football ⚽.
 - 📫 How to reach me: ...{ https://www.linkedin.com/in/vincenzo-chiovaro-22258a176 }
 - ⚡ Fun fact: ... Games provide a 23 percent gain over traditional learning
