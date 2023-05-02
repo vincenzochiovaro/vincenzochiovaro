@@ -1,6 +1,6 @@
-
 <h2>Hey there! 👋</h2>
 
+![Your Name Banner Image](./banner.png)
 
 <h2>About Me</h2>
 
