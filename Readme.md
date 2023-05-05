@@ -12,7 +12,6 @@
 
  <h2>Currently Working On</h2>
  
-- 🔨 Building a new portfolio/blog website to showcase my skills and projects
 - 🌐 Developing a RESTful API: https://github.com/vincenzochiovaro/Mealtime-backEnd
 -  🚀 Learning TypeScript with FreeCodeCamp🔥
 
@@ -21,7 +20,7 @@
 
 I'm a graduate Full-Stack developer living in Manchester 🐝 🇬🇧. When I'm not coding, you can find me listening to tech podcasts, reading books, or hitting the pavement for a jog in nature.
 
-- Check out my Portfolio/Blog: Work In Progress ⚠️
+- Check out my Portfolio: 👉 https://vincenzo-portfolio.netlify.app/ 
 - Write to me: ✉️ vincenzochiovaro194@gmail.com
 
 
