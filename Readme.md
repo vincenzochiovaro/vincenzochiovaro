@@ -13,7 +13,8 @@
  <h2>Currently Working On</h2>
  
 - 🌐 Developing a RESTful API: https://github.com/vincenzochiovaro/Mealtime-backEnd
--  🚀 Learning TypeScript with FreeCodeCamp🔥
+- 🍝 Working on TastyCards, a React project built with TypeScript and Bootstrap that connects to my  RESTful API to fetch... more information here 😜: https://github.com/vincenzochiovaro/TastyCards
+- 🚀 Learning TypeScript🔥
 
 
 <h2>About</h2>
