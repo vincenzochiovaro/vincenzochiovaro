@@ -13,8 +13,8 @@
  <h2>Currently Working On</h2>
  
 - 🌐 Developing a RESTful API: https://github.com/vincenzochiovaro/Mealtime-backEnd
-- 🍝 Working on TastyCards, a React project built with TypeScript and Bootstrap that connects to my  RESTful API to fetch... more information here 😜: https://github.com/vincenzochiovaro/TastyCards
-- 🚀 Learning TypeScript🔥
+- 🍝 Exploring the Cloud and Terraform: I'm dedicated to expanding my expertise in cloud technologies and specifically exploring the powerful capabilities of Terraform. My goal is to leverage these tools to build scalable and efficient infrastructures.
+- 🚀 Learning C# as it opens up opportunities to build robust applications and contributes to my overall programming proficiency
 
 
 <h2>About</h2>
