@@ -1,7 +1,5 @@
 <h2>Hey there! 👋</h2>
 
-![Your Name Banner Image](./banner.png)
-
 <h2>My Background</h2>
 
 - 🎓 I am a Northcoders bootcamp graduate with a specialization in the Software Developer path using (PostgreSQL, Express, React, Node).
@@ -19,7 +17,7 @@
 
 <h2>About</h2>
 
-I'm a graduate Full-Stack developer living in Manchester 🐝 🇬🇧. When I'm not coding, you can find me listening to tech podcasts, reading books, or hitting the pavement for a jog in nature.
+I'm a Junior Software Engineer living in Manchester 🐝 🇬🇧. When I'm not coding, you can find me listening to tech podcasts, reading books, or hitting the pavement for a jog in nature.
 
 - Check out my Portfolio: 👉 https://vincenzo-portfolio.netlify.app/ 
 - Write to me: ✉️ vincenzochiovaro194@gmail.com
