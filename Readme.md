@@ -10,9 +10,8 @@
 
 <h2>Currently Working On</h2>
  
-- 🌐 Developing a RESTful API: [Mealtime-backEnd](https://github.com/vincenzochiovaro/Mealtime-backEnd)
+- 🌐 Developing: [BritalianMart](https://github.com/vincenzochiovaro/BritalianMart)
 - 🍝 Exploring the Cloud and Terraform: I'm dedicated to expanding my expertise in cloud technologies, with a focus on Microsoft Azure. Additionally, I'm diving into CI/CD practices to streamline development workflows. My goal is to leverage these tools to build scalable and efficient infrastructures.
-- 🚀 Learning C# as it opens up opportunities to build robust applications and contributes to my overall programming proficiency, particularly on the backend.
 
 
 <h2>About</h2>
