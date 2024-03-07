@@ -1,7 +1,7 @@
 <h2>Hey there! 👋</h2>
 
 <h2>My Background</h2>
-
+/* WIP
 - 🎓 I am a Northcoders bootcamp graduate with a specialization in the Software Developer path using (PostgreSQL, Express, React, Node).
 - 👨‍💻 I love to code and explore new technologies, and I'm currently working on improving my skills in Cloud Computing and C#.
 - 🌩️ I'm passionate about cloud technologies, particularly Azure, and I'm excited to delve into the world of CI/CD to ensure efficient and automated software delivery.
@@ -13,7 +13,7 @@
 - 🌐 Developing: [BritalianMart](https://github.com/vincenzochiovaro/BritalianMart)
 - 🍝 Exploring the Cloud and Terraform: I'm dedicated to expanding my expertise in cloud technologies, with a focus on Microsoft Azure. Additionally, I'm diving into CI/CD practices to streamline development workflows. My goal is to leverage these tools to build scalable and efficient infrastructures.
 
-
+*/
 <h2>About</h2>
 
 I'm a Junior Software Engineer living in Manchester 🐝 🇬🇧. When I'm not coding, you can find me listening to tech podcasts, reading books, or hitting the pavement for a jog in nature.
