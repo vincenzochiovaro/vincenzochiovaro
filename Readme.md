@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Vincenzo 👋</h2>
 
-- 👨‍💻 I am Software Engineer specializing in backend development and cloud solutions. Currently, I'm deeply engaged with C#, Azure, and MongoDB in my work.
+- 👨‍💻 I am Software Engineer specializing in backend development and cloud solutions. Currently, I'm deeply engaged with C#, Azure, and MongoDB.
 - 🎓 I am a Northcoders graduate with a specialization in the Software Developer PERN path(PostgreSQL, Express, React, Node).
 - 🌐 Currently Developing: [BritalianMart](https://github.com/vincenzochiovaro/BritalianMart)
 - 👾 Also building my own version of the Unix command line tool `head` — Coming Soon...
