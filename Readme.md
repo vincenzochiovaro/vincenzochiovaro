@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vincenzo Chiovaro</h1>
-<div align="center">
-  <a href="https://ibb.co/ZKvDhDP">
-    <img src="https://i.ibb.co/nf4JDJv/Designer.jpg" alt="Designer" border="0" width="200">
-  </a>
-</div>
-<h3 align="center"> I am a Software Engineer specialising in backend development and cloud solutions. Currently, I'm deeply engaged with C#, Azure, and MongoDB.</h3>
-<hr>
 
-- 🔭 I’m currently working on [BritalianMart](https://github.com/vincenzochiovaro/BritalianMart)
+<h1 align="center">Hi 👋, I'm Vincenzo Chiovaro</h1>
+<h3 align="center">Software Engineer specialising in backend development and cloud solutions. Currently, I'm deeply engaged with C#, Azure, and MongoDB.</h3>
+<img align="right" alt="Coding" width="200" src="https://i.ibb.co/nf4JDJv/Designer.jpg">
+
+
+
+- 🔭 I’m currently working on  [BritalianMart](https://github.com/vincenzochiovaro/BritalianMart)
 
 - 🌱 I’m currently learning **MAUI**
 
-- 👨‍💻 All of my projects are available at [https://vincenzo-portfolio.netlify.app/](https://vincenzo-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://vincenzo-portfolio.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/vincenzo-chiovaro-22258a176/**
-<hr>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
@@ -40,5 +38,3 @@
   </a>
 </p>
 <hr>
-
-Join me on my coding journey! Follow me on GitHub [![GitHub followers](https://img.shields.io/github/followers/vincenzochiovaro.svg?style=social&label=Follow)](https://github.com/vincenzochiovaro?tab=followers)
