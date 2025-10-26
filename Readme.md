@@ -2,16 +2,14 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Passionate about building scalable and efficient software solutions. I specialize in C#, .NET, and cloud technologies, with a focus on Azure and MongoDB.
+I work with .NET, Azure, and JavaScript, while staying curious about low-level mechanics and understanding what happens under the hood.
 </p>
 
 <img align="right" alt="Coding" width="200" src="https://cdn-icons-png.flaticon.com/512/4191/4191039.png">
 
-🔭 Currently working on [SeasonalBite](https://github.com/vincenzochiovaro/SeasonalBite)  
+🍕 Currently working on [The Pizza Database](https://github.com/vincenzochiovaro/the-pizza-database)  
 
-🌱 Exploring **MAUI** and expanding my tech stack  
-
-👨‍💻 Check out my projects: [Portfolio Website](https://vincenzo-portfolio.netlify.app/)  
+📚 Join the giveaway for a chance to get a FREE copy of my book 👉 [Vincenzo - hub](https://vincenzochiovaro.github.io/vincenzo-hub/index.html)  
 
 ---
 
